@@ -1,0 +1,10 @@
+1632992651449	geckodriver	INFO	Listening on 127.0.0.1:46891
+1632992652728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\durgade\\AppData\\Local\\Temp\\rust_mozprofile6QthoV"
+1632992656344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\durgade\\AppData\\Local\\Temp\\rust_mozprofile6QthoV\\search.json.mozlz4", (void 0)))
+1632992663072	Marionette	INFO	Listening on port 62063
+1632992663739	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demowebshop.tricentis.com/Scripts/jquery-1.10.2.min.js, line 19: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1632992667722	Marionette	INFO	Stopped listening on port 62063
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 25780, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

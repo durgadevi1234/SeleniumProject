@@ -30,7 +30,7 @@ public class Assignment {
 		Thread.sleep(2000);
 		driver.findElement(By.className("shopping_cart_link")).click();
 		Thread.sleep(2000);
-		driver.findElement(By.id("checkout")).click();
+		`
 		Thread.sleep(2000);
 		WebElement firstName =driver.findElement(By.id("first-name"));
 		WebElement lastName =driver.findElement(By.id("last-name"));
